@@ -87,7 +87,7 @@ Starting with 4D v21, the recommended way to install woc_Colours (and any ogTool
 
 ## ogTools Suite – Dependencies
 
-woc_Colours is the color management pillar of the comprehensive **ogTools suite**—an integrated development ecosystem for 4D. Other key components include:
+woc_Colours is the color management pillar of the comprehensive **ogTools suite**—an integrated development ecosystem for 4D. Dependencies:
 
 | Icon | Component | Description |
 |------|-----------|-------------|
