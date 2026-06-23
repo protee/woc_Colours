@@ -8,7 +8,7 @@
     <strong style="font-size: 1em;">Tagline:</strong> Color, solved.
   </div>
   <div>
-    <img src="https://www.protee.org/images/woc_Colours/woc_Colours.png" alt="woc_Colours Logo" width="60" style="border-radius: 12px;">
+    <img src="https://www.protee.org/images/woc_Colours/woc_Colours.png" alt="woc_Colours Logo" width="120" style="border-radius: 12px;">
   </div>
 </div>
 
