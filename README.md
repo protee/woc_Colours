@@ -84,24 +84,14 @@ Starting with 4D v21, the recommended way to install woc_Colours (and any ogTool
 
 ---
 
-## Part of the ogTools Suite
+## ogTools Suite – Dependencies
 
 woc_Colours is the color management pillar of the comprehensive **ogTools suite**—an integrated development ecosystem for 4D. Other key components include:
 
-| Component | Description |
-|-----------|-------------|
-| **wok_Krolific** | Centralized licensing system. |
-| **wox_Xlibrary** | Core utilities for everyday development tasks. |
-| **zen_Nucleus** | The complete ORDA framework binding your database to a sophisticated UI. |
-| **waz_Wazar** | Intelligent UI widgets for modern interfaces. |
-| **wor_Recursive** | Manage hierarchical data with ease. |
-| **wob_Boxes** | Secure, Dropbox-like file repository. |
-| **wod_DevTools** | Instant documentation generation. |
-| **wom_Make** | Build and automation toolkit. |
-
-> Together, these components form a powerful framework that allows developers to focus on unique business logic rather than reinventing the wheel.
-
----
+| Icon | Component | Description |
+|------|-----------|-------------|
+| <img src="https://www.protee.org/images/wok_Krolific/wok_Krolific.png" alt="wok_Krolific Logo" width="60" style="border-radius: 12px;"> | **wok_Krolific** | License manager. |
+| <img src="https://www.protee.org/images/wox_Xlibrary/wox_Xlibrary.png" alt="wox_Xlibrary Logo" width="60" style="border-radius: 12px;"> | **wox_Xlibrary** | Core utilities for everyday development tasks. |
 
 ## License
 
@@ -113,10 +103,8 @@ woc_Colours is a **commercial component** and is part of the paid ogTools suite.
 
 woc_Colours supports the following languages out‑of‑the‑box:
 
-- 🇺🇸 English (EN)
-- 🇫🇷 French (FR)
-- 🇪🇸 Spanish (ES)
-- 🇩🇪 German (DE)
+- 🇺🇸 English (EN), 🇫🇷 French (FR), 🇪🇸 Spanish (ES), 🇩🇪 German (DE)
+- Other on demand
 
 Localization affects error messages, UI prompts, and built‑in pane texts.
 
@@ -135,7 +123,7 @@ For direct inquiries:
 
 ## About the Creator
 
-woc_Colours and the ogTools suite are developed by **Protée sarl**, a company with over 30 years of expertise in 4D development. Led by Olivier Grimbert, the team focuses on delivering high‑quality, production‑grade tools that enhance developer productivity and application reliability.
+woc_Colours and the ogToolsSuite are developed by **Protée sarl**, a company with over 30 years of expertise in 4D development. Led by Olivier Grimbert, the team focuses on delivering high‑quality, production‑grade tools that enhance developer productivity and application reliability.
 
 ---
 
