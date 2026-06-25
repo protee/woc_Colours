@@ -25,7 +25,7 @@
 
 ## Overview
 
-woc_Colours is the advanced low‑level color management engine for the **ogTools suite**. It operates in both RGB and specialized indexed color spaces, providing unparalleled consistency and design flexibility for any 4D project. Localized in EN, FR, ES, DE.[reference:0]
+woc_Colours is the advanced low‑level color management engine for the **ogTools suite**. It operates in both RGB and specialized indexed color spaces, providing unparalleled consistency and design flexibility for any 4D project. Localized in EN, FR, ES, DE.
 
 ---
 
@@ -42,16 +42,16 @@ woc_Colours is the advanced low‑level color management engine for the **ogTool
 - **mn** – A custom space
 - **4d** – Native 4D theme colors
 - **svg** – Standard SVG colors
-- **web** – Standard web colors[reference:1]
+- **web** – Standard web colors
 
 ### Intelligent Color Editor
-A single long integer can store both Stroke and Fill properties, each potentially from a different color space. The editor UI dynamically resizes when switching spaces to maintain perfectly squared color samples and seamlessly manages conversions between spaces.[reference:2]
+A single long integer can store both Stroke and Fill properties, each potentially from a different color space. The editor UI dynamically resizes when switching spaces to maintain perfectly squared color samples and seamlessly manages conversions between spaces.
 
 ### Comprehensive Tools
 - **Ready‑to‑Use Widgets** – Includes color pickers, menus, and other UI elements for seamless integration.
 - **Color Processing** – Provides common utilities for color manipulation and treatment.
 - **Extended Libraries** – Features libraries for `rgb`, `colour`, `color`, and `svg` operations.
-- **Pattern Library** – A collection of “delicious” patterns from Hero Patterns, complete with an embedded editor for customization.[reference:3]
+- **Pattern Library** – A collection of “delicious” patterns from Hero Patterns, complete with an embedded editor for customization.
 
 ### Advantages of Indexed Colors
 - Stroke and Fill combined in one long integer.
@@ -59,7 +59,7 @@ A single long integer can store both Stroke and Fill properties, each potentiall
 - With built‑in spaces, the effective limitation is low.
 - Up to 16 spaces (4 bits) and 4096 indexes (12 bits).
 - Lazy loading: spaces and conversion tables can be auto‑ or pre‑loaded.
-- Display and copy colors in multiple formats: `[0x0…]`, `[sp:index] name`, numeric values, `rgb(r,g,b)`, `0xrrggbb`, etc.[reference:4]
+- Display and copy colors in multiple formats: `[0x0…]`, `[sp:index] name`, numeric values, `rgb(r,g,b)`, `0xrrggbb`, etc.
 
 ---
 
